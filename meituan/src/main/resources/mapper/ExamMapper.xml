@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.meituan.mapper.ExamMapper">
+<!--    <select id="findById" resultType="com.example.meituan.model.Exam">-->
+<!--        SELECT * FROM exam WHERE id = #{id}-->
+<!--    </select>-->
+
+<!--    <insert id="insertExam" parameterType="com.example.meituan.model.Exam">-->
+<!--        INSERT INTO exam (title, beginTime, endTime)-->
+<!--        VALUES (#{title}, #{beginTime}, #{endTime})-->
+<!--    </insert>-->
+
+<!--    <select id="findAllExams" resultType="com.example.meituan.model.Exam">-->
+<!--        SELECT * FROM exam-->
+<!--    </select>-->
+</mapper>
